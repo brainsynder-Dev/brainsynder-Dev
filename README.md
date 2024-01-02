@@ -9,7 +9,7 @@
 <h1 align="center">💫 About Me:</h1>
 <div align="center">
   <p>I am an experienced developer making Spigot/Minecraft plugins for almost over 10 years.</p>
-  <p>I created the first major EchoPets replacement back in 2015 called <a href="https://github.com/brainsynder-Dev/SimplePets">SimplePets</a>.</p>
+  <p>I created the first major <a href="https://dev.bukkit.org/projects/echopet">EchoPets</a> replacement back in 2015 called <a href="https://github.com/brainsynder-Dev/SimplePets">SimplePets</a>.</p>
   <p>My most recent project is <a href="https://github.com/brainsynder-Dev/ServerMaster">ServerMaster</a> which us useful for developers who have to test using multiple versions and types of spigot and its forks</p>
   <br>
   <p>Over the years i have learned and used a multitude of languages and programs</p>
