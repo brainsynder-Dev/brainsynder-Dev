@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://github.com/brainsynder-Dev/SimplePets"><img src="https://i.imgur.com/ZRmVaKh.png" height="100"></a>
-  <a href="https://github.com/brainsynder-Dev/ServerMaster"><img src="https://i.imgur.com/zEFN94V.png" height="100"></a>
+  <a href="https://github.com/brainsynder-Dev/SimplePets"><img src="https://i.imgur.com/DMNrjhB.png" height="100"></a>
+  <a href="https://github.com/brainsynder-Dev/ServerMaster"><img src="https://github.com/brainsynder-Dev/ServerMaster/blob/master/src/main/resources/images/servermaster-large.png?raw=true" height="100" width="100"></a>
   <a href="https://bsdevelopment.org/"><img src="https://i.imgur.com/hrU5E9i.png" height="100"></a>
 </div>
 
