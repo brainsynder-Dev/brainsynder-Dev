@@ -56,10 +56,11 @@ Along the way I've picked up a fairly wide range of languages, build tooling, an
 
 <div align="center">
 
-<img src="./metrics.overview.svg" alt="Overview"/>
 
-<img src="./metrics.languages.svg" alt="Languages" width="48%"/>
-<img src="./metrics.isocalendar.svg" alt="Contribution calendar" width="48%"/>
+<img src="https://raw.githubusercontent.com/brainsynder-Dev/brainsynder-Dev/main/metrics.languages.svg" alt="Languages"/><br>
+<img src="https://raw.githubusercontent.com/brainsynder-Dev/brainsynder-Dev/main/metrics.overview.svg" alt="Overview" width="48%"/>
+<img src="https://raw.githubusercontent.com/brainsynder-Dev/brainsynder-Dev/main/metrics.isocalendar.svg" alt="Contribution calendar" width="48%"/>
+
 
 <sub>Generated daily by <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></sub>
 
