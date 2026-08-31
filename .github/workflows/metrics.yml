@@ -1,0 +1,38 @@
+name: Metrics
+
+on:
+  # Regenerate once a day
+  schedule:
+    - cron: "0 6 * * *"
+  # Allow manual runs from the Actions tab
+  workflow_dispatch:
+  # Regenerate on push to the default branch
+  push:
+    branches: ["main", "master"]
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Overview card
+        uses: lowlighter/metrics@latest
+        with:
+          # Classic PAT stored as a repo secret. Fine-grained tokens are NOT
+          # supported — GitHub's GraphQL API doesn't accept them.
+          # Scopes needed: public_repo (add repo + read:org for private counts)
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-metrics.svg
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/New_York
+
+          # Languages breakdown
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+
+          # Isometric contribution calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
