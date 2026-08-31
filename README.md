@@ -61,9 +61,7 @@ Along the way I've picked up a fairly wide range of languages, build tooling, an
 <img src="./metrics.languages.svg" alt="Languages" width="48%"/>
 <img src="./metrics.isocalendar.svg" alt="Contribution calendar" width="48%"/>
 
-<img src="./metrics.achievements.svg" alt="Achievements"/>
-
-<sub>Generated daily by <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> — see <code>.github/workflows/metrics.yml</code></sub>
+<sub>Generated daily by <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></sub>
 
 </div>
 
