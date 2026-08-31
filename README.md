@@ -1,49 +1,99 @@
 <div align="center">
-  <a href="https://github.com/brainsynder-Dev/SimplePets"><img src="https://i.imgur.com/DMNrjhB.png" height="100"></a>
-  <a href="https://github.com/brainsynder-Dev/ServerMaster"><img src="https://github.com/brainsynder-Dev/ServerMaster/blob/master/src/main/resources/images/servermaster-large.png?raw=true" height="100" width="100"></a>
-  <a href="https://bsdevelopment.org/"><img src="https://i.imgur.com/hrU5E9i.png" height="100"></a>
+
+<img src="https://i.imgur.com/DMNrjhB.png" height="90" alt="SimplePets"/>
+&nbsp;&nbsp;
+<img src="https://github.com/brainsynder-Dev/ServerMaster/blob/master/src/main/resources/images/servermaster-large.png?raw=true" height="90" alt="ServerMaster"/>
+&nbsp;&nbsp;
+<img src="https://i.imgur.com/hrU5E9i.png" height="90" alt="bsdevelopment.org"/>
+
+# Hi, I'm Brian 👋
+
+**Spigot / Minecraft plugin developer · 10+ years**
+
+[![Website](https://img.shields.io/badge/bsdevelopment.org-2C5263?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bsdevelopment.org/)
+[![Maven Repo](https://img.shields.io/badge/Maven_Repo-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://repo.bsdevelopment.org/#/releases)
+![Followers](https://img.shields.io/github/followers/brainsynder-Dev?style=for-the-badge&color=2C5263&labelColor=1c1c1c)
+
 </div>
 
-<h1 align="center">Hi 👋, I'm Brian</h1>
+---
 
-<h1 align="center">💫 About Me:</h1>
+## 💫 About Me
+
+I've been building Spigot/Minecraft plugins for over a decade. In 2015 I released **[SimplePets](https://github.com/brainsynder-Dev/SimplePets)** — the first major replacement for [EchoPets](https://dev.bukkit.org/projects/echopet) — and it's still my longest-running project.
+
+These days I spend most of my time on **[ServerMaster](https://github.com/brainsynder-Dev/ServerMaster)**, a tool for developers who need to test against multiple versions and forks of Spigot without the usual setup pain.
+
+Along the way I've picked up a fairly wide range of languages, build tooling, and infrastructure work.
+
+---
+
+## 🚀 Projects
+
+| Project | What it does |
+| :--- | :--- |
+| **[SimplePets](https://github.com/brainsynder-Dev/SimplePets)** | Multi-version Minecraft pet plugin — the original EchoPets replacement (2015) |
+| **[ServerMaster](https://github.com/brainsynder-Dev/ServerMaster)** | Spin up and test across multiple Spigot versions and forks |
+| **[bsdevelopment.org](https://bsdevelopment.org/)** | Main site — docs, downloads, and the public Maven repository |
+| **[pastelog.us](https://www.pastelog.us/paste)** | Paste service for logs and snippets |
+
+<details>
+<summary><b>📦 Older projects (archived / unmaintained)</b></summary>
+
+<br>
+
+| Project | Status |
+| :--- | :--- |
+| [minecraftchar.us](https://minecraftchar.us/) | Outdated |
+| [pluginwiki.us](https://pluginwiki.us/) | Outdated |
+| [brainsynder.us](http://brainsynder.us/) | Outdated |
+
+</details>
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+**Build & Infrastructure**
+
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+**Databases & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+---
+
+## 📊 Repository Stats
+
 <div align="center">
-  <p>I am an experienced developer making Spigot/Minecraft plugins for almost over 10 years.</p>
-  <p>I created the first major <a href="https://dev.bukkit.org/projects/echopet">EchoPets</a> replacement back in 2015 called <a href="https://github.com/brainsynder-Dev/SimplePets">SimplePets</a>.</p>
-  <p>My most recent project is <a href="https://github.com/brainsynder-Dev/ServerMaster">ServerMaster</a> which us useful for developers who have to test using multiple versions and types of spigot and its forks</p>
-  <br>
-  <p>Over the years i have learned and used a multitude of languages and programs</p>
+
+| Repo | Stars | Forks | Last Commit |
+| :--- | :--- | :--- | :--- |
+| [SimplePets](https://github.com/brainsynder-Dev/SimplePets) | ![](https://img.shields.io/github/stars/brainsynder-Dev/SimplePets?style=flat-square&labelColor=1c1c1c&color=2C5263) | ![](https://img.shields.io/github/forks/brainsynder-Dev/SimplePets?style=flat-square&labelColor=1c1c1c&color=2C5263) | ![](https://img.shields.io/github/last-commit/brainsynder-Dev/SimplePets?style=flat-square&labelColor=1c1c1c&color=2C5263) |
+| [ServerMaster](https://github.com/brainsynder-Dev/ServerMaster) | ![](https://img.shields.io/github/stars/brainsynder-Dev/ServerMaster?style=flat-square&labelColor=1c1c1c&color=2C5263) | ![](https://img.shields.io/github/forks/brainsynder-Dev/ServerMaster?style=flat-square&labelColor=1c1c1c&color=2C5263) | ![](https://img.shields.io/github/last-commit/brainsynder-Dev/ServerMaster?style=flat-square&labelColor=1c1c1c&color=2C5263) |
+
 </div>
-
-<hr>
-
-<h3 align="left">Current Website Projects:</h3>
-<ul align="left">
-  <li><a href="https://bsdevelopment.org/">bsdevelopment.org</a></li>
-  <li><a href="https://www.pastelog.us/paste">pastelog.us</a></li>
-  <hr>
-  <li><a href="https://minecraftchar.us/">minecraftchar.us</a> ( Old | Outdated )</li>
-  <li><a href="https://pluginwiki.us/">pluginwiki.us</a> ( Old | Outdated )</li>
-  <li><a href="http://brainsynder.us/">brainsynder.us</a> ( Old | Outdated )</li>
-</ul>
-
-<div align="center">
-  
-  # 💻 My Resources:
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)<br>
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)<br>
-  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)<br>
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) <br>
-  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)<br>
-  ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)<br>
-  ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)<br>
-  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-
-  # 📊 GitHub Stats:
-  ![](https://github-readme-stats.vercel.app/api?username=brainsynder-Dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=brainsynder-Dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-  
-  ### 🔝 Top Contributed Repo
-  ![](https://github-contributor-stats.vercel.app/api?username=brainsynder-Dev&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-</div>
-
