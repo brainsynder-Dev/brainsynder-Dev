@@ -30,12 +30,12 @@ Along the way I've picked up a fairly wide range of languages, build tooling, an
 
 ## 🚀 Projects
 
-| Project | What it does |
-| :--- | :--- |
-| **[SimplePets](https://github.com/brainsynder-Dev/SimplePets)** | Multi-version Minecraft pet plugin — the original EchoPets replacement (2015) |
-| **[ServerMaster](https://github.com/brainsynder-Dev/ServerMaster)** | Spin up and test across multiple Spigot versions and forks |
-| **[bsdevelopment.org](https://bsdevelopment.org/)** | Main site — docs, downloads, and the public Maven repository |
-| **[pastelog.us](https://www.pastelog.us/paste)** | Paste service for logs and snippets |
+| Project | What it does | |
+| :--- | :--- | :--- |
+| **[SimplePets](https://github.com/brainsynder-Dev/SimplePets)** | Multi-version Minecraft pet plugin — the original EchoPets replacement (2015) | ![](https://img.shields.io/github/stars/brainsynder-Dev/SimplePets?style=flat-square&label=%E2%98%85&labelColor=1c1c1c&color=2C5263) |
+| **[ServerMaster](https://github.com/brainsynder-Dev/ServerMaster)** | Spin up and test across multiple Spigot versions and forks | ![](https://img.shields.io/github/stars/brainsynder-Dev/ServerMaster?style=flat-square&label=%E2%98%85&labelColor=1c1c1c&color=2C5263) |
+| **[bsdevelopment.org](https://bsdevelopment.org/)** | Main site — docs, downloads, and the public Maven repository | |
+| **[pastelog.us](https://www.pastelog.us/paste)** | Paste service for logs and snippets | |
 
 <details>
 <summary><b>📦 Older projects (archived / unmaintained)</b></summary>
@@ -49,6 +49,23 @@ Along the way I've picked up a fairly wide range of languages, build tooling, an
 | [brainsynder.us](http://brainsynder.us/) | Outdated |
 
 </details>
+
+---
+
+## 📊 GitHub Metrics
+
+<div align="center">
+
+<img src="./metrics.overview.svg" alt="Overview"/>
+
+<img src="./metrics.languages.svg" alt="Languages" width="48%"/>
+<img src="./metrics.isocalendar.svg" alt="Contribution calendar" width="48%"/>
+
+<img src="./metrics.achievements.svg" alt="Achievements"/>
+
+<sub>Generated daily by <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> — see <code>.github/workflows/metrics.yml</code></sub>
+
+</div>
 
 ---
 
@@ -84,16 +101,3 @@ Along the way I've picked up a fairly wide range of languages, build tooling, an
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
----
-
-## 📊 Repository Stats
-
-<div align="center">
-
-| Repo | Stars | Forks | Last Commit |
-| :--- | :--- | :--- | :--- |
-| [SimplePets](https://github.com/brainsynder-Dev/SimplePets) | ![](https://img.shields.io/github/stars/brainsynder-Dev/SimplePets?style=flat-square&labelColor=1c1c1c&color=2C5263) | ![](https://img.shields.io/github/forks/brainsynder-Dev/SimplePets?style=flat-square&labelColor=1c1c1c&color=2C5263) | ![](https://img.shields.io/github/last-commit/brainsynder-Dev/SimplePets?style=flat-square&labelColor=1c1c1c&color=2C5263) |
-| [ServerMaster](https://github.com/brainsynder-Dev/ServerMaster) | ![](https://img.shields.io/github/stars/brainsynder-Dev/ServerMaster?style=flat-square&labelColor=1c1c1c&color=2C5263) | ![](https://img.shields.io/github/forks/brainsynder-Dev/ServerMaster?style=flat-square&labelColor=1c1c1c&color=2C5263) | ![](https://img.shields.io/github/last-commit/brainsynder-Dev/ServerMaster?style=flat-square&labelColor=1c1c1c&color=2C5263) |
-
-</div>
